@@ -1,5 +1,7 @@
 ### Hi there 👋
+My Name Patrick Lenihan and this is my Github profile. Checkout the pinned section below to view my top selection of projects I have worked on. 
 
+More are on the way :)
 <!--
 **Patrick-Lenihan/Patrick-Lenihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
